@@ -8,7 +8,7 @@ Summary:	Backport of get_terminal_size function from Python 3.3 shutil
 Summary(pl.UTF-8):	Backport funkcji get_terminal_size z modułu shutil Pythona 3.3
 Name:		python-backports.shutil_get_terminal_size
 Version:	1.0.0
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/backports.shutil_get_terminal_size/
